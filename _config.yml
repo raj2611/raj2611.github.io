@@ -9,7 +9,7 @@
 title: sumant raj
 email: sumant261195@gmail.com
 description:  Raj Analogue by birth,digital by design.simple during childhood,computerized by configuration.21 years old living vicariously through myself.
-baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
