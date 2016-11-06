@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Need to Passs.."
+date:   2016-11-06 11:49:45 +0200
+categories: jekyll update
+---
+
+As i am scrambling to finish this joke of a class
+i take a look at the clock
+and realize there is no time left. 
+i know that all the answers i have learned are wrong. 
+My mind has given up and my focus is gone.
+i know i am gonna fail this sem
+And that i deserve it.
+i have forgotten all i know but thats not unheard of.
+i have only 4 minutes, 
+not gonna finish now all that is to do is sit there drawing a penies,
+My tution's cost me 2 lakh a year
+But i dont need an education i just need a beer. 
+These indians are complaining that they are dying but 
+what i am suppose to do i guess i'm fucked up inside 
+this class could not be worse
+I Am an engineering failure.
+please help me i'm screwed ,you see
+need to pass this sem to get my degree
+i can do only worse
+i am an engineering failure
+complex algorithm irrational equations
+statics and dynamics and look at these indians 
+everybody studying but there are no solutions.
+Hell the prof. cant even teach us.
+they say i have gotta learn 
+but it feels like i have a curse
+curse of engineering failure.
+And i know my academic is out of my luck
+i am screwed you see 
+need to pass this sem to get a degree.
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
