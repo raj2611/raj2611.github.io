@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Being Alone"
+date:   2017-02-12 11:49:45 +0200
+categories: jekyll update
+---
 Someone asked me this strange question one day   
 "Do people love to be alone, Is being alone is a beautiful feeling?"  
 Ok, i dont know about everyone but let me tell what i feel.    
