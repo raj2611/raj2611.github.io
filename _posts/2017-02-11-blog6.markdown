@@ -21,7 +21,6 @@ Magic is dead but the falseness of time
 comes alive with fakeness  
 What is happening with them now ?   
 ![img courtsey google](/assets/rel1.jpg)
-
 <div id="disqus_thread"></div>
 <script>
 
