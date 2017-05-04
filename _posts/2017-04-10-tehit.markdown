@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Tech_Blogs"
-date:   2017-04-10 11:49:45 +0200
-categories: jekyll update
----
-Tech Blogs at this website
-https://raj2611.githu.io/techit/
