@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Tech Blogs At https://raj2611.github.io/techit/
+Tech Blogs At this website (https://raj2611.github.io/techit/)  
 I COULD NOT BECOME ANYTHING:  
 NEITHER BAD NOR GOOD, NEITHER  
 A SCOUNDREL NOR AN HONEST MAN,   
