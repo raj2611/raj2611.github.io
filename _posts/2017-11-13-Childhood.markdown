@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Childhood-bruises"
+title:  "Childhood"
 date:   2017-11-13 10:49:45 +0200
 categories: jekyll update
 ---
