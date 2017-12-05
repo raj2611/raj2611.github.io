@@ -4,6 +4,7 @@ title:  "Childhood"
 date:   2017-11-13 10:49:45 +0200
 categories: jekyll update
 ---
+![img courtsey Varsha Rani](/assets/child.png)  
 Do you miss them? Do you miss your childhood bruises? 
 The scratch on your knee because you fell off your bike or 
 when you hurt your ankle while putting a baby bird back in the nest. 
