@@ -4,7 +4,7 @@ title:  "Dear Future Love"
 date:   2018-01-05 08:10:45 +0200
 categories: jekyll update
 ---
-![img courtsey google](/assets/loveme.jpg) 
+
 Dear future love,  
 Wassup, how are you? I wanted to tell you something you know?  
 okay, I am an old school romantic. All of me is filled with the hope of 'happily ever after'  so don't tell me you weren't warned.  
