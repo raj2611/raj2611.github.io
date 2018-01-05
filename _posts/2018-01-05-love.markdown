@@ -4,6 +4,7 @@ title:  "Dear Future Love"
 date:   2018-01-05 08:10:45 +0200
 categories: jekyll update
 ---
+![img courtsey google](/assets/loveme.jpg)
 
 Dear future love,  
 Wassup, how are you? I wanted to tell you something you know?  
